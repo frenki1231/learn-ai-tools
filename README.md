@@ -1,1 +1,0 @@
-This repo created fot learning AI props
